@@ -1,0 +1,25 @@
+#header {
+  padding: 20px 0;
+  background-color: #000;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+.nav {
+  width: 350px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav h4 {
+  color: #fff;
+}
+.nav h1 {
+  color: red;
+}
